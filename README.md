@@ -2,7 +2,7 @@
 ![_2025_02_18_20_01_38_612-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a7e5b18e-3e12-4ab4-aabf-e7d194efd415) <BR> <BR>
 
 
-이 코드는 SAT(Boolean Satisfiability) solver와 Tkinter GUI를 사용하여 Flow Free 퍼즐을 푸는 파이썬 프로그램입니다.
+SAT(Boolean Satisfiability) solver와 Tkinter GUI를 사용하여 Flow Free 퍼즐을 푸는 파이썬 프로그램입니다.
 
 <BR>
 
